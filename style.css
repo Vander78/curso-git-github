@@ -14,3 +14,20 @@ img{
 ul{
     list-style: none;
 }
+.imagem{
+    display: flex;
+    justify-content: center;
+}
+.lista ul li{
+    display: inline;
+    background-color: aquamarine;
+    padding: 10px;
+    border-radius: 8px;
+
+}
+.lista{
+   display: flex;
+   justify-content: center;
+   margin-top: 20px;
+   padding: 10px;
+}
